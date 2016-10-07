@@ -1,0 +1,6 @@
+C:\Users\Games\Desktop\lyut\Pyramid\Pyramid\bin\Debug\Pyramid.exe.config
+C:\Users\Games\Desktop\lyut\Pyramid\Pyramid\bin\Debug\Pyramid.exe
+C:\Users\Games\Desktop\lyut\Pyramid\Pyramid\bin\Debug\Pyramid.pdb
+C:\Users\Games\Desktop\lyut\Pyramid\Pyramid\obj\Debug\Pyramid.csprojResolveAssemblyReference.cache
+C:\Users\Games\Desktop\lyut\Pyramid\Pyramid\obj\Debug\Pyramid.exe
+C:\Users\Games\Desktop\lyut\Pyramid\Pyramid\obj\Debug\Pyramid.pdb
