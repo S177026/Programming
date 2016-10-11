@@ -1,0 +1,6 @@
+C:\Users\Games\Desktop\Change System\Change System\Change System\bin\Debug\Change System.exe.config
+C:\Users\Games\Desktop\Change System\Change System\Change System\obj\Debug\Change System.csprojResolveAssemblyReference.cache
+C:\Users\Games\Desktop\Change System\Change System\Change System\bin\Debug\Change System.exe
+C:\Users\Games\Desktop\Change System\Change System\Change System\bin\Debug\Change System.pdb
+C:\Users\Games\Desktop\Change System\Change System\Change System\obj\Debug\Change System.exe
+C:\Users\Games\Desktop\Change System\Change System\Change System\obj\Debug\Change System.pdb
