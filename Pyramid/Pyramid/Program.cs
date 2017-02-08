@@ -19,7 +19,7 @@ namespace Pyramid
                 string currentEntry = Console.ReadLine();
                 valid = Int32.TryParse(currentEntry, out height);
 
-                if (height <= 0 || height > 23)
+                if (height <= 0 || height > )
                     valid = false;
             }
                     
