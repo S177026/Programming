@@ -1,0 +1,7 @@
+windows form application 
+toolbox
+coommon controls
+property for assets (Button text box label)
+Name of the asset(name them specific)
+Pointer
+Double click to add code
